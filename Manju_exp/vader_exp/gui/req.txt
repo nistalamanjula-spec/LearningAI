@@ -1,0 +1,4 @@
+- a simple blank where i can enter the sample text 
+- two buttons one for clearing the balnk space, second button named analyze that outputs the sentiment of teh text in the blank space
+and outputs three categories positive, neutral and negative (also include the number aside so i will get a clear understanding )
+- i want the server in the port 8080 and the implementation in gui folder 

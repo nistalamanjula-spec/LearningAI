@@ -1,0 +1,6 @@
+- the product is good
+- product is average
+- product is not bad
+- product is not good
+- product is bad
+etc
